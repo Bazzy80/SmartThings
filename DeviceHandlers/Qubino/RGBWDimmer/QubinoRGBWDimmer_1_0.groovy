@@ -1,7 +1,7 @@
 /**
  *  Qubino RGBW Dimmer
  *	Device Handler 
- *	Version 1.0
+ *	Version 1.0.1
  *  Date: 31.7.2017
  *	Author: Kristjan Jam&scaron;ek (Kjamsek), Goap d.o.o.
  *  Copyright 2017 Kristjan Jam&scaron;ek
